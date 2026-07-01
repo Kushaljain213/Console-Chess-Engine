@@ -163,8 +163,3 @@ Some features that can be added in the future:
 - PGN/FEN support
 - GUI using SFML
 
-Indian Institute of Technology Kanpur
-
-
-
-
