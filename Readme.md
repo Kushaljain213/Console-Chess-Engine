@@ -150,16 +150,4 @@ The engine is organized into independent modules:
 
 This modular design makes the engine easy to extend and maintain.
 
----
-
-
-## Future Improvements
-
-Some features that can be added in the future:
-
-- En passant
-- Minimax AI
-- Alpha-Beta Pruning
-- PGN/FEN support
-- GUI using SFML
 
